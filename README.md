@@ -18,7 +18,7 @@
 ## Hasil tampilan halaman home pada browser dengan menggunakan modular header dan footer
 ![image](https://user-images.githubusercontent.com/101807419/171850272-649d888e-db1d-4b75-866b-4eb997107465.png)
 ## Hasil tampilan halaman about pada browser dengan menggunakan modular header dan footer
-![image](https://user-images.githubusercontent.com/101807419/171851073-f906aaca-037c-4d51-be56-c21398bf2dbb.png)
+![image](https://user-images.githubusercontent.com/101807419/171851324-fcd2f08c-af37-48a5-a226-34b200d8d41d.png)
 
 
 
